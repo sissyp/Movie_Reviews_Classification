@@ -19,7 +19,6 @@ ID3 :
 |0.72048| 1000| 200| 20|
 |0.67928| 4000| 400| 20|
 
-Presicion, recall and F1 stood at around 0.70, 0.71 and 0.68 respectively.
 
 Logistic Regression : an attempt to find the best λ , with a number of 1000 Iterations, 1000 words, 100 skipped words 100 and different λ
 (learning rate) so as to increase the accuracy score resulted to a λ = 0.2, where accuracy stood at 0.843.
